@@ -9,6 +9,7 @@
 .welcome {
   height: 639px;
   background-image: url("images/nature-sky-sunset-man-animation.gif");
+  background-repeat: no-repeat;
 }
 
 .giant-circle {
