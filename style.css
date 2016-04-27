@@ -115,7 +115,6 @@ button:hover {
   width: 140px;
   border-radius: 50%;
   margin-bottom: 30px;
-  background-size: cover;
 }
 .feature-main-left{
   text-align: center;
@@ -156,6 +155,7 @@ button:hover {
 .block-light {
     height: 600px;
     background-image: url("images/clouds.png");
+    background-size: cover;
 }
 .block-dark {
     height: 600px;
