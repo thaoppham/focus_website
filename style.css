@@ -155,7 +155,7 @@ button:hover {
 .block-light {
     height: 600px;
     background-image: url("images/clouds.png");
-    background-size: contain;
+    background-repeat: no repeat;
 }
 .block-dark {
     height: 600px;
