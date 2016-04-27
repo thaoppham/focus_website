@@ -115,7 +115,7 @@ button:hover {
   width: 140px;
   border-radius: 50%;
   margin-bottom: 30px;
-  background-size: contain;
+  background-size: cover;
 }
 .feature-main-left{
   text-align: center;
